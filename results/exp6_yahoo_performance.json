@@ -1,0 +1,20 @@
+{
+  "yahoo_replay_2018_2024": {
+    "ann_return": 0.18670945222560936,
+    "ann_vol": 0.16027280634282992,
+    "sharpe": 1.16494779423922,
+    "max_dd": -0.214108920696513
+  },
+  "equal_weight_benchmark": {
+    "ann_return": 0.17102743984154367,
+    "ann_vol": 0.19784525223413743,
+    "sharpe": 0.8644505638130928,
+    "max_dd": -0.33025796738574237
+  },
+  "bootstrap_one_sided_p_value_excess_positive": 0.38,
+  "bootstrap_95ci_annualized_excess": [
+    -0.07757587601381366,
+    0.1040495595767456
+  ],
+  "mean_ann_excess": 0.01397021053273324
+}

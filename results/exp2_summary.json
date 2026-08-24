@@ -1,0 +1,16 @@
+{
+  "R_baseline_loglik": -1.8054775158996865,
+  "R_market_gain": -0.10697983299800451,
+  "R_market_mae": 1.3116180677540805,
+  "R_market_plus_M_gain": -0.10141424495009677,
+  "R_market_plus_M_mae": 1.3115862477286673,
+  "R_rv63_only_gain": -0.09471902781230113,
+  "R_rv63_only_mae": 1.311886156891113,
+  "V_baseline_loglik": -2.115325956856218,
+  "V_market_gain": -0.06238188606185524,
+  "V_market_mae": 1.7204255189562672,
+  "V_market_plus_M_gain": -0.05293144918812187,
+  "V_market_plus_M_mae": 1.6976594997605325,
+  "V_rv63_only_gain": -0.0819138195468212,
+  "V_rv63_only_mae": 1.7656596181657613
+}

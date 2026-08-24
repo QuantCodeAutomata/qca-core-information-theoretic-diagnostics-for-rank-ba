@@ -1,0 +1,12 @@
+{
+  "regime_R": {
+    "sigma_transition": 0.011962344167148106,
+    "sigma_boundary": -6.883953351675845e-05,
+    "sigma_total": 0.011893504633631348
+  },
+  "regime_V": {
+    "sigma_transition": 0.010519549340657117,
+    "sigma_boundary": -4.645772600352167e-05,
+    "sigma_total": 0.010473091614653596
+  }
+}

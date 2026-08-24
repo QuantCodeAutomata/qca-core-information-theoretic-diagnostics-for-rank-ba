@@ -1,0 +1,9 @@
+{
+  "pooled_sigma_R": 0.013395282029951258,
+  "pooled_sigma_V": 0.008432654049297937,
+  "avg_delta_sigma_R": 0.356331957916562,
+  "avg_delta_sigma_V": 0.360352860615381,
+  "avg_net_te_R": 0.013146365823739911,
+  "avg_net_te_V": 0.047245005046586463,
+  "cond_ge_pooled_share": 1.0
+}

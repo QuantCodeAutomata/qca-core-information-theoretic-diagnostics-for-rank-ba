@@ -1,0 +1,16 @@
+{
+  "current_sleeve": {
+    "ann_return": 0.20304916239916282,
+    "ann_vol": 0.1739183802931817,
+    "sharpe": 1.1674968571859632,
+    "max_dd": -0.2937043189468174,
+    "mean_diversification": 1.57513691900154
+  },
+  "diversified_sleeve_gamma05": {
+    "ann_return": 0.19683070171938158,
+    "ann_vol": 0.17490990205088286,
+    "sharpe": 1.1253262360304894,
+    "max_dd": -0.2964952702776968,
+    "mean_diversification": 1.5864672058804226
+  }
+}
